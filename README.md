@@ -1,5 +1,3 @@
-#Arquivo teste
-
-![D:\Cursos\Curso Git - Udemy\rep_curso_git](Labrador ou traidor?)
+# Arquivo teste
 
 Este é um arquivo de teste para o curso de Git presente na Udemy.
